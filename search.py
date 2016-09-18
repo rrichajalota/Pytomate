@@ -1,5 +1,5 @@
 #! /usr/bin/python3
-# This script opens several Google search results
+# This script opens top 5 Google search results
 
 import requests, sys, webbrowser, bs4
 
