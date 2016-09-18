@@ -2,8 +2,8 @@
 This repository contains python scripts for automating tasks. 
 
 ##List of scripts 
-* [mapit](#mapit)
-* [search](#search)
+* [mapit](#mapit.py)
+* [search](#search.py)
 
 ###mapit
 The script gets a street address from the command line arguments or clipboard and opens the web browser to the Google Maps page for the address. 
